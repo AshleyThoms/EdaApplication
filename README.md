@@ -1,4 +1,4 @@
-# 📊 EDA Application 📊
+# 📊 EDA Application 
 
 An interactive web application for Exploratory Data Analysis (EDA) that allows users to upload datasets and visualize insights easily.
 
@@ -6,13 +6,13 @@ This project was built as part of my AI & ML learning journey to practice data a
 
 ---
 
-## 🚀 Demo 🚀
+## 🚀 Demo 
 
 Live App: https://edaapplication-ashley.streamlit.app
 
 ---
 
-## 📌 Features 📌
+## 📌 Features 
 
 - Upload and analyze CSV/Excel datasets  
 - View dataset summary and structure  
@@ -23,7 +23,7 @@ Live App: https://edaapplication-ashley.streamlit.app
 
 ---
 
-## 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Stack 
 
 - Streamlit  
 - Pandas  
@@ -33,7 +33,7 @@ Live App: https://edaapplication-ashley.streamlit.app
 
 ---
 
-## 📂 Project Structure 📂
+## 📂 Project Structure 
 
 ```bash
 EDA-Application/
@@ -45,7 +45,7 @@ EDA-Application/
 
 ---
 
-## ▶️ Run Locally ▶️
+## ▶️ Run Locally 
 
 ```bash
 pip install -r requirements.txt
@@ -54,7 +54,7 @@ streamlit run app.py
 
 ---
 
-## 💡 What I Learned 💡
+## 💡 What I Learned 
 
 - How to perform basic Exploratory Data Analysis (EDA)  
 - Working with Pandas for data cleaning and inspection  
